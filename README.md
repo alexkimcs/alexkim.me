@@ -1,8 +1,9 @@
-# kavin.varnan.me
+# alex.kim.me
+This repo is a clone of [kavin varnan](https://github.com/skavinvarnan/kavin.varnan.me).
+Designed by [Brittany Chiang's personal website](https://github.com/bchiang7/bchiang7.github.io).
 
-This repo is a clone of [Brittany Chiang's personal website](https://github.com/bchiang7/bchiang7.github.io). However this is not a fork, and I've made extensive modifications.
-
-This project was originally written in Jekyll and Gulp by Brittany Chiang. I have converted the entire project to Gatsby, while retaining the original design.
+## Dependencies
+node v18.20.8 (npm v10.8.2)
 
 ## Getting Started
 
