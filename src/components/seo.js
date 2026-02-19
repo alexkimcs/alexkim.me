@@ -1,9 +1,9 @@
 import * as React from "react"
 
 const seoData = {
-  "title": "Kavin Varnan",
-  "description": "Kavin Varnan is a an expert in top-tier mobile/web app architecture & robust backend servers",
-  "author": "Kavin Varnan",
+  "title": "Alex Kim",
+  "description": "<description>",
+  "author": "<Kavin Varnan>",
   "siteUrl": "https://kavin.varnan.me",
 }
 

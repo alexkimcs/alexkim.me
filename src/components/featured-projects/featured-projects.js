@@ -19,7 +19,7 @@ const FeaturedProjects = () => (
         </figcaption>
       </div>
 
-      <div className="project screentime">
+      {/* <div className="project screentime">
         <figure className="project__pic phones">
           <a href="https://play.google.com/store/apps/details?id=com.talkingyak.app" rel="noreferrer" target="_blank">
             <div className="phone">
@@ -39,7 +39,7 @@ const FeaturedProjects = () => (
           </div>
           <p>Talking Yak is an English learning app specifically created for Hindi and Tamil speakers.</p>
         </figcaption>
-      </div>
+      </div> */}
     </div>
   </section>
 )

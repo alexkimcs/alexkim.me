@@ -4,7 +4,7 @@ import "./other-projects.scss"
 
 const otherProjectsData = [
   {
-    "name": "GuessBuzz",
+    "name": "Skeji",
     "url": "https://github.com/skavinvarnan/whistler-ios",
     "description": "I developed a score prediction app for the IPL as a hobby project during the 2018 season. This app is available on both iOS and Android platforms. It allows users to make score predictions for IPL matches, adding an exciting and interactive element to the cricket-watching experience. <br> <a class='small' href='https://github.com/skavinvarnan/whistler-ios'>👨🏻‍💻Github Source Code👨🏻‍💻</a>",
     "used": [
@@ -21,7 +21,7 @@ const otherProjectsData = [
     ]
   },
   {
-    "name": "Covidstat",
+    "name": "Moon App",
     "url": "https://www.linkedin.com/posts/kavin-varnan-08083229_covid-covid19-dashboard-activity-6668032584783663104-cRzB?utm_source=share&utm_medium=member_desktop",
     "description": "I've developed an elegant web application that displays COVID-19 statistics. The website dynamically retrieves data from reputable sources such as John Hopkins University and government websites to ensure accuracy. What sets it apart is the inclusion of a <a class='underline-link' href='https://graphql.org'>GraphQL</a> endpoint, providing a public API for seamless data consumption by anyone interested. Explore the API Documentation for further details. This comprehensive tool not only offers insightful statistics but also demonstrates a commitment to transparency and accessibility in sharing crucial information about the pandemic. <br> <a class='small' href='https://github.com/COVID19-SARS-CoV-2/web-covid-api'>👨🏻‍💻API Documentation👨🏻‍💻</a>",
     "used": [
@@ -37,7 +37,7 @@ const otherProjectsData = [
     ]
   },
   {
-    "name": "Gallery For Lollipop",
+    "name": "Spotify React",
     "url": "https://play.google.com/store/apps/details?id=com.gallery.lollipop",
     "description": "When Google introduced Google Photos, they unexpectedly removed the widely-used Gallery app from Android with the release of Android Lollipop. Leveraging the open-source code from Android, I took it upon myself to recreate and revive the Gallery app, ensuring users could continue to enjoy a familiar and essential feature. Now, you can experience the convenience and functionality of the Gallery app once again, thanks to this recreation.",
     "used": [
