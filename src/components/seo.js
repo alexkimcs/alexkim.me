@@ -3,8 +3,8 @@ import * as React from "react"
 const seoData = {
   "title": "Alex Kim",
   "description": "<description>",
-  "author": "<Kavin Varnan>",
-  "siteUrl": "https://kavin.varnan.me",
+  "author": "<Alex Kim>",
+  "siteUrl": "https://alexkimcs.github.io/alexkim.me/",
 }
 
 const Seo = () => (
