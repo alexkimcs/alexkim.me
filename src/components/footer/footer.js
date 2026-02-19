@@ -4,23 +4,15 @@ import "./footer.scss"
 const socialData = [
   {
     "title": "email",
-    "url": "mailto:kavin@varnan.me"
-  },
-  {
-    "title": "twitter",
-    "url": "https://twitter.com/skvarnan"
-  },
-  {
-    "title": "stackoverflow",
-    "url": "https://stackoverflow.com/users/1452884/kavin-varnan"
+    "url": "mailto:0xalexkimcs@gmail.com"
   },
   {
     "title": "github",
-    "url": "https://github.com/skavinvarnan"
+    "url": "https://github.com/alexkimcs"
   },
   {
     "title": "linkedin",
-    "url": "https://www.linkedin.com/in/kavin-varnan-08083229/"
+    "url": "https://www.linkedin.com/in/alex-kim-303/"
   },
 ]
 const Footer = () => (
