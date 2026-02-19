@@ -37,7 +37,7 @@ const Experience = () => (
         }
       </div>
 
-      <a href="./AlexKimCV_SWE" target="_blank" rel="noreferrer" className="arrow-link">View My Resume</a>
+      <a href="./AlexKimCV_SWE.pdf" target="_blank" rel="noreferrer" className="arrow-link">View My Resume</a>
     </div>
   </section>
 )
